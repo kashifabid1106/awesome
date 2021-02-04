@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Threat Modeling",
+    "owner": "Kashif",
+    "description": "This is a sample threat Model"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "kashifabid"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Sample diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Kashif"
+  }
+}
